@@ -73,7 +73,7 @@ https://github.com/JALIYAMADUSHANSL/Workflow-code.git
 |**[`Madushan-Official`](https://github.com/Rmjmadu)**|
 
 
-## 👑 `Manu-MD BOT OWNER`👨‍💻 
+## 👑 `MADU-MD BOT OWNER`👨‍💻 
 
 `⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
 
