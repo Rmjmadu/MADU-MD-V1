@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@madushanboy?si=rljJzsgHf8oQx2e7">
-    <img alt="MADU-MD" height="300" src="https://i.ibb.co/Rv1q2dL/Capture.png">
+    <img alt="MADU-MD" height="300" src="https://i.ibb.co/BLzYgSC/Whats-App-Image-2024-09-11-at-12-31-49-5f7b75ee.jpg">
 
     
 
