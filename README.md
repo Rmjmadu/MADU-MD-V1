@@ -70,7 +70,7 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
    <a href="https://github.com/manulofficial7/"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width=80 height=80></a>   
 
-|**[`Manul-Official`](https://github.com/manulofficial7)**|
+|**[`Madushan-Official`](https://github.com/manulofficial7)**|
 
 
 ## 👑 `Manu-MD BOT OWNER`👨‍💻 
