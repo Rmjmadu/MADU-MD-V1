@@ -11,14 +11,14 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/@ManulOfficialTech">
+  <a href="https://youtube.com/@madushanboy?si=rljJzsgHf8oQx2e7">
     <img alt="MADU-MD" height="300" src="https://i.ibb.co/Rv1q2dL/Capture.png">
 
     
 
-![forks](https://img.shields.io/github/forks/manulofficial7/Manu-MD-Bot-V7?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Rmjmadu/MADU-MD-V1?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/manulofficial7/Manu-MD-Bot-V7?style=social)
+![stars](https://img.shields.io/github/stars/Rmjmadu/MADU-MD-V1?style=social)
 
 
 
@@ -43,12 +43,12 @@
 1. FORK THIS REPO
 
 
-<a href='https://github.com/manulofficial7/Manu-MD-Bot-V7/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Rmjmadu/MADU-MD-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://manu-md-x-pair.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://mabu-md-x-pair.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
 ## DEPLOYMENT METHODS
 
@@ -56,11 +56,11 @@
 
 ### Copy This Code For Github Workflow 
 
-https://github.com/manulofficial7/GitHub-Workflow-Code
+https://github.com/JALIYAMADUSHANSL/Workflow-code.git
 
 4. ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manu-MD-Bot-V7)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rmjmadu/MADU-MD-V1.git)
 
 5. ## Deploy to RENDER ↓
 
@@ -68,9 +68,9 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
 
 
-   <a href="https://github.com/manulofficial7/"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width=80 height=80></a>   
+   <a href="https://github.com/Rmjmadu/"><img src="https://telegra.ph/file/49e1bb852fe8292c2614a.jpg" width=80 height=80></a>   
 
-|**[`Madushan-Official`](https://github.com/manulofficial7)**|
+|**[`Madushan-Official`](https://github.com/Rmjmadu)**|
 
 
 ## 👑 `Manu-MD BOT OWNER`👨‍💻 
